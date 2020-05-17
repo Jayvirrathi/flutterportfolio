@@ -9,9 +9,7 @@
 ## Installation
 
 ```sh
-yarn add
-# or
-npm install
+flutter run -d chrome
 ```
 
 - **[FLutter](https://flutter.dev/)** — contains the ["Getting Started" guide](https://flutter.dev/docs/get-started/install) and all you need to know.
