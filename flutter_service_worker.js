@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "fc26ad8cb0c2c1bd0df400fba1a8e6fb",
 "assets/jayvir2.jpg": "3b5c1dafd99a6397b043d56515bdd9a6",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "6c5dcda57f8b678cd5387fe039d6ac64",
+"assets/LICENSE": "84870dd1f1c7f88ee486657ff53448ff",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/GoogleSansRegular.ttf": "b5c77a6aed75cdad9489effd0d5ea411",
