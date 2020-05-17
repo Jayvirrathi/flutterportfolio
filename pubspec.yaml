@@ -47,7 +47,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - Jayvir.jpg
+    - jayvir.jpg
 
 dependency_overrides:
   flutter_web:
