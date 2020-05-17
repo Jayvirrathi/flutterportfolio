@@ -6,12 +6,8 @@ before_script:
   - export PATH=`pwd`/flutter/bin:`pwd`/flutter/bin/cache/dart-sdk/bin:$PATH
   - flutter config --enable-web
 
-cache:
-  directories:
-    - $HOME/.pub-cache
-
 script:
-  - flutter build web
+    - flutter build web
 
 deploy:
   provider: pages
