@@ -1,16 +1,19 @@
-# flutterportfolio
+# FLUTTER - PORTFOLIO-APP
 
-A new Flutter project.
+## :rocket:Deployed Link : https://jayvirrathi.github.io/flutterportfolio/
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📦 Build in Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+yarn add
+# or
+npm install
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **[FLutter](https://flutter.dev/)** — contains the ["Getting Started" guide](https://flutter.dev/docs/get-started/install) and all you need to know.
+- **[Travis-ci](https://travis-ci.org/)** — contains the ["Getting Started" guide](https://docs.travis-ci.com/) and all you need to know.
+- **[Github-pages](https://pages.github.com/)** — contains the ["Getting Started" guide](https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages) and all you need to know.
