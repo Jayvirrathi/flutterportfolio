@@ -7,15 +7,14 @@ const RESOURCES = {
 "/": "d909a62f1d1f02d413c975fc4fce1940",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"assets/Jayvir.jpg": "6c469445dfa8ef84d155ff585b7d50ea",
+"assets/jayvir.jpg": "6c469445dfa8ef84d155ff585b7d50ea",
 "assets/FontManifest.json": "fc26ad8cb0c2c1bd0df400fba1a8e6fb",
-"assets/jayvir2.jpg": "3b5c1dafd99a6397b043d56515bdd9a6",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "84870dd1f1c7f88ee486657ff53448ff",
-"assets/AssetManifest.json": "ca29115d82630298dcb33eb7e636e4ba",
+"assets/AssetManifest.json": "b1bafb6c8782d7340688f45ffb035e36",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/GoogleSansRegular.ttf": "b5c77a6aed75cdad9489effd0d5ea411",
-"assets/web/assets/Jayvir.jpg": "6c469445dfa8ef84d155ff585b7d50ea",
+"assets/web/assets/jayvir.jpg": "6c469445dfa8ef84d155ff585b7d50ea",
 "main.dart.js": "49b706dc07d3f98542ded6ef30fd0ea0"
 };
 
