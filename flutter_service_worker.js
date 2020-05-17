@@ -12,9 +12,10 @@ const RESOURCES = {
 "assets/jayvir2.jpg": "3b5c1dafd99a6397b043d56515bdd9a6",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "84870dd1f1c7f88ee486657ff53448ff",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"assets/AssetManifest.json": "ca29115d82630298dcb33eb7e636e4ba",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/GoogleSansRegular.ttf": "b5c77a6aed75cdad9489effd0d5ea411",
+"assets/web/assets/Jayvir.jpg": "6c469445dfa8ef84d155ff585b7d50ea",
 "main.dart.js": "49b706dc07d3f98542ded6ef30fd0ea0"
 };
 
